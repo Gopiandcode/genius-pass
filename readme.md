@@ -18,8 +18,19 @@ Through this 180 degree reversal of intentions, Hackers will be left in the dark
 
 
 ## Screenshots
+![Screen1](https://raw.githubusercontent.com/Gopiandcode/genius-pass/master/example.png)
+_Nicely generated super-pwned password_
 
-![example]{https://raw.githubusercontent.com/Gopiandcode/genius-pass/master/example.png)
+
+
+
+
+
+
+
+
+
+
 
 
 Oh, and one more thing:
