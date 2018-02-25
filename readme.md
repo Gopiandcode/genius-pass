@@ -17,6 +17,9 @@ Geniuspass aids users in thwarting malicious hackers by not generating *secure* 
 Through this 180 degree reversal of intentions, Hackers will be left in the dark, completely unable to steal your passwords.
 
 
+Geniuspass does this by generating a super-pwned password by concatenating 1 of the 100 most common names with up to 4 random digits and then checking with HaveIBeenPwned.com as to whether this password has been pwned.
+
+
 ## Screenshots
 ![Screen1](https://raw.githubusercontent.com/Gopiandcode/genius-pass/master/example.png)
 _Nicely generated super-pwned password_
@@ -34,4 +37,5 @@ _Nicely generated super-pwned password_
 
 
 Oh, and one more thing:
-# THIS IS A JOKE.
+
+THIS IS A JOKE. Please don't use.
